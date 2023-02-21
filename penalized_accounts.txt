@@ -1,0 +1,17 @@
+Hmdan9950@Gmail.Com:{
+    reason_for penalty:"created difrrent three accounts and tried to send pyment from all of them",
+    penalty_amount:$100
+    acccouts_created:{
+        "Aissamnamouss@Gmail.Com",
+        "Mrem9106@Gmail.Com",
+        "Ahmdaliana4@Gmail.Com",
+        "Hmdan9950@Gmail.Com"
+    },
+     acccouts_csubmitted_hash:{
+        "Aissamnamouss@Gmail.Com",
+        "Mrem9106@Gmail.Com",
+        "Ahmdaliana4@Gmail.Com",
+        "Hmdan9950@Gmail.Com"
+    },
+    hash:"D92e2d5efbb49c103b04396b4f1b61360e66e4b67f72b83680e34d351ac8f1c8"
+}
